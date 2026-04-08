@@ -57,7 +57,7 @@ python main.py --sampling brand-free --count 100   # No brand names in prompts
 
 **Automated Synthetic Traffic Dataset Generation via Diffusion-Based Inpainting Pipeline**
 
-*Daniel Gachulinec, Viktória Cvacho, Maroš Jakubec, Róbert Móro*
+* Ing.Daniel Gachulinec, Viktória Cvacho, Maroš Jakubec, Radovan Madleňák*
 
 University of Žilina, Faculty of Operation and Economics of Transport and Communications
 
