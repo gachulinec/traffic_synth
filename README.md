@@ -59,7 +59,7 @@ python main.py --sampling brand-free --count 100   # No brand names in prompts
 
 * Daniel Gachulinec, Viktória Cvacho, Maroš Jakubec, Radovan Madleňák
 
-University of Žilina,
+University of Žilina
 
 Funded by: APVV-24-0282 — Synthetic Traffic Data for Improving the Resilience of Transport Systems
 
