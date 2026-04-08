@@ -69,7 +69,7 @@ This repository provides a project overview and documentation. The full source c
 
 **To request access to the complete source code**, please:
 
-1. Open an [Issue](https://github.com/gachulinec/traffic-synth/issues/new) in this repository with the subject "Code Access Request"
+1. Open an [Issue](https://github.com/gachulinec/traffic_synth/issues/new) in this repository with the subject "Code Access Request"
 2. Include your name, institutional affiliation, and intended use case
 3. We will respond within 5 working days
 
